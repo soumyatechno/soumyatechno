@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumya Chakraborty</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyatechno&label=Profile%20views&color=0e75b6&style=flat" alt="soumyatechno" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumyatechno" alt="soumyatechno" /></a> </p>
@@ -20,6 +19,7 @@
 - ⚡ Fun fact **Love to laugh and travel around the globe.**
 
 <h3 align="left">Connect with me:</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"></img>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/soumyachak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soumyachak/" height="30" width="40" /></a>
 </p>
